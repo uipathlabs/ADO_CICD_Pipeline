@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://staging.uipath.com/testcloud_team/gpc/testmanager_",
+  "defaultProject": {
+    "id": "c49219d2-8f90-0000-8537-0b48a03c8789",
+    "name": "UiBank Pratyush",
+    "key": "UIP"
+  }
+}

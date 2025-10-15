@@ -1,0 +1,14 @@
+﻿{
+  "Name": "For Each UI Element",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "NzFDTUZl6UW53I8-hQEWjw",
+  "Reference": "mJ1zhA5MT0OIsEZXj_8bZw/NzFDTUZl6UW53I8-hQEWjw",
+  "ParentRef": "mJ1zhA5MT0OIsEZXj_8bZw/EAkKnVfaDkig_yf9Pc0CCQ",
+  "Created": "2025-08-31T10:29:58.7847272Z",
+  "Updated": "2025-08-31T10:29:58.7847272Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.14.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "UIBank_Demo_Staging_Pratyush",
+  "projectId": "b4836fb6-9b12-4f3a-a17c-406d0b893abf",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "25.8.0",
+    "UiPath.Testing.Activities": "25.4.1",
+    "UiPath.UIAutomation.Activities": "25.10.14-preview"
+  },
+  "webServices": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "namespace": "UIBank_Demo_Staging_Pratyush"
+    }
+  ],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.167.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a235e6bc-ba32-42f1-823d-d15538560f56",
+        "dataVariationFilePath": ".variations\\TestData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "TC01_Validate Loan Creation.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "aa805062-5fcd-482f-9a47-50359331cf48",
+        "testCaseType": "TestCase",
+        "fileName": "TC02_Validate Invalid Loan Application.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "60e5b93d-924d-4e64-9cab-c2208cced8a0",
+        "testCaseType": "TestCase",
+        "fileName": "Uibank Login.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "CSharp",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "2c278122-375d-4875-bd01-a3484463dd8a",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

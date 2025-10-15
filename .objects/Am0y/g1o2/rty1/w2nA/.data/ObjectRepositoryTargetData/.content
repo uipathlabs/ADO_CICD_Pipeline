@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SPWLDQP8KUeKywEWTqhlog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/credit-cards" DesignTimeRectangle="1155, 685, 229, 110" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' Apply Now -&amp;gt; ' tag='DIV' /&gt;" Guid="0c23ef59-b17e-43cc-9ca9-175b820e1f7c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Credit Card' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bfdec9da6346f2d567931199e0914058.png" xmlns="">0I5589p9S00uSzzOiYEsE4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
