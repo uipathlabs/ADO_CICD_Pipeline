@@ -65,6 +65,13 @@
         "testCaseId": "60e5b93d-924d-4e64-9cab-c2208cced8a0",
         "testCaseType": "TestCase",
         "fileName": "Uibank Login.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d28736eb-2e5f-4cbe-a9f1-e6bdac962e8e",
+        "dataVariationFilePath": ".variations\\TestData_Sheet1.json",
+        "testCaseType": "TestCase",
+        "fileName": "TC01_Validate Loan Creation - Copy (1).xaml"
       }
     ],
     "saveToCloud": false
